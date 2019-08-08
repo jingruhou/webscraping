@@ -22,10 +22,3 @@ The script download all TV Station Logos for Google Colab Hard Disk.
 - As a result, here some logos obtained:
 
 ![](images/Logo TV Bragantina/1.TV_Bragantina_Logo.png)
-
-![](images/Logo TV Globo Rio de Janeiro/1.200px-Logotipo_da_Rede_Globo.png)
-
-![](images/Logo TV Gazeta (Rio Branco)/2.tv_gazeta_470x440.jpg)
-
-![](images/Logo TV Bandeirantes Paulista/1.cropped-LOGO8K_Alfa_bandpaulista-02.png)
-
