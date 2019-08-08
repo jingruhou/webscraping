@@ -21,3 +21,5 @@ The script download all TV Station Logos for Google Colab Hard Disk.
 
 
 - As a result, here some logos obtained:
+
+![](images/1.TV_Bragantina_Logo.png)
