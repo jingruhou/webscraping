@@ -33,6 +33,6 @@ As a result, here some logos obtained:
 
 ![](images/gazetanorte.jpg)
 
-- TV Station (Record) RBS TV Passo Fundo
+- TV Station (Globo) RBS TV Passo Fundo
 
 ![](images/rbstv.png)
