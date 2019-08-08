@@ -32,3 +32,7 @@ As a result, here some logos obtained:
 - TV Station Gazeta Norte
 
 ![](images/gazetanorte.jpg)
+
+- TV Station (Record) RBS TV Passo Fundo
+
+![](images/rbstv.png)
