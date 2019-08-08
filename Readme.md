@@ -5,6 +5,9 @@
 
 
 
+
+
+
 -- Brazil TV Stations Scraper
 ---------------------
 
@@ -22,4 +25,11 @@ The script download all TV Station Logos for Google Colab Hard Disk.
 
 - As a result, here some logos obtained:
 
+- TV Station Bragantina
 ![](images/1.TV_Bragantina_Logo.png)
+
+-TV Station Globo
+![](images/1.200px-Logotipo_da_Rede_Globo.png)
+
+-TV Station Gazeta Norte
+![](images/3.Ve%C3%ADculo_250x200px_TV-Gazeta-Norte.jpg)
