@@ -2,6 +2,8 @@
 
 ![](images/webscrapping.png)
 
+![Bragantina](images/Logo TV Bragantina/1.TV_Bragantina_Logo.png)
+
 
 
 -- Brazil TV Stations Scraper
@@ -21,4 +23,4 @@ The script download all TV Station Logos for Google Colab Hard Disk.
 
 - As a result, here some logos obtained:
 
-![](images/Logo TV Bragantina/1.TV_Bragantina_Logo.png)
+
