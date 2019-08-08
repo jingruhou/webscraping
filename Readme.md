@@ -1,10 +1,5 @@
 # WEBSCRAPING
 
-![](images/webscrapping.png)
-
-
-
-
 
 
 
