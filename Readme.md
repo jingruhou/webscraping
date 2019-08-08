@@ -1,6 +1,6 @@
 # WEBSCRAPING
 
-![Section 1](images/SES_DF.jpg)
+![Section 1](webscrapping.png)
 
 
 - Brazil TV Stations Scraper
