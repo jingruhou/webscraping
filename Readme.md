@@ -2,9 +2,6 @@
 
 ![](images/webscrapping.png)
 
-![](images/webscrapping.png)
-
-
 
 
 
@@ -24,5 +21,3 @@ The script download all TV Station Logos for Google Colab Hard Disk.
 
 
 - As a result, here some logos obtained:
-
-
