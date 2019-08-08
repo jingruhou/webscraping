@@ -1,6 +1,6 @@
 # WEBSCRAPING
 
-![Section 1](webscrapping.png)
+![](webscrapping.png)
 
 
 - Brazil TV Stations Scraper
